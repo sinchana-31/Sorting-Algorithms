@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 void bubblesort(int arr[], int n)
 {
   int i, j;
