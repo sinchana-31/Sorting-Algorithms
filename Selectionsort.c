@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include<stdlib.h>
+
 
 // Function to perform selection sort
 void selectionSort(int arr[], int n) {
